@@ -20,7 +20,7 @@ class _InitialScreenState extends State<InitialScreen> {
         opacity: opacidade ? 1 : 0,
         child: ListView(
           children: const [
-            Task('Aprender Flutter',
+            Task('aaa Flutter',
                 'lib/assets/images/estudar.jpg',
                 1),
             Task(
